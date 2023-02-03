@@ -1,5 +1,2 @@
-ALX
-“ALX”
-“ALX School”
-ALX School is so cool
-ALX School is cool!
+#!/bin/bash
+echo "ALX School"
